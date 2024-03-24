@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MSALAndroidapp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="single_account_mode">Single Account Mode</string>
+    <string name="fees_details_app">Fees Details App</string>
+    <string name="msal_android">MSAL Android</string>
+    <string name="output_goes_here">Output goes here...</string>
+    <string name="get_graph_data_silently">Get Graph Data Silently</string>
+    <string name="get_graph_data_interactively">Get Graph Data Interactively</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="none">None</string>
+    <string name="device_mode">Device mode</string>
+    <string name="signed_in_user">Signed-in user</string>
+    <string name="msgraph_resource_url">MSGraph Resource URL</string>
+    <string name="type_in_scopes_delimited_by_space">Type in scopes delimited by space</string>
+    <string name="user_read">user.read</string>
+    <string name="scope">Scope</string>
+</resources>

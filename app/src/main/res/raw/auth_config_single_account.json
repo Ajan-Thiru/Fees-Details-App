@@ -1,0 +1,16 @@
+{
+  "client_id": "e628dcb5-5380-45b7-894b-3712713a98fb",
+  "authorization_user_agent": "BROWSER",
+  "redirect_uri": "msauth://com.example.msalandroidapp/w5G662mc4o81BUzLaFO2xjZlnHw%3D",
+  "broker_redirect_uri_registered": true,
+  "account_mode": "SINGLE",
+  "authorities": [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}
