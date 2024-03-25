@@ -17,7 +17,7 @@
     <string name="single_account_mode">Single Account Mode</string>
     <string name="fees_details_app">Fees Details App</string>
     <string name="msal_android">MSAL Android</string>
-    <string name="output_goes_here">Output goes here...</string>
+    <string name="output_goes_here">Output goes here</string>
     <string name="get_graph_data_silently">Get Graph Data Silently</string>
     <string name="get_graph_data_interactively">Get Graph Data Interactively</string>
     <string name="sign_out">Sign Out</string>

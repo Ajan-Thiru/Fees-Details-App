@@ -41,8 +41,11 @@ dependencies {
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
-    implementation libs.msal
-    implementation libs.volley
-    implementation libs.opentelemetry.bom
 
+    implementation libs.volley
+    implementation(libs.msal.v4100) {
+        exclude(group : "io.opentelemetry")
+    }
+    implementation(libs.opentelemetry.api)
+    implementation(libs.opentelemetry.context)
 }
